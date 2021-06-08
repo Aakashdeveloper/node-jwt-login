@@ -15,3 +15,5 @@
 (GET) => http://localhost:5000/api/auth/userinfo
 (Header) => {'x-access-token':'token value from login'}
 (response) => {userinfo}
+
+https://developerjwt.herokuapp.com/api/auth/users
